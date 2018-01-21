@@ -5,3 +5,8 @@ This folder contains data
   
 * StockList.csv contains the symbols for every stock in the dataset,
   to make manipulating the data a bit easier.
+
+* ENKeys are .txts with each line being a unique key, representing
+  a unique block of raw data from which to generate a block of
+  training data. Each ENKeys file containe 10^N keys, from 1,000
+  to 1,000,000.
