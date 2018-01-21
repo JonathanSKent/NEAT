@@ -10,3 +10,7 @@ This folder contains data
   a unique block of raw data from which to generate a block of
   training data. Each ENKeys file containe 10^N keys, from 1,000
   to 1,000,000.
+
+* ENBlocks are .txts containing the blocks of data pulled using the
+  keys from ENKeys. I have included only N = 3, 4 as 5 and 6 are 
+  rather large.
