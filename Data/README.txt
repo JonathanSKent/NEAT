@@ -14,3 +14,6 @@ This folder contains data
 * ENBlocks are .txts containing the blocks of data pulled using the
   keys from ENKeys. I have included only N = 3, 4 as 5 and 6 are 
   rather large.
+
+* ENTrain are .txts containing the percentage changes day-to-day for
+  30 business days, and then the total percentage change for the next week.
